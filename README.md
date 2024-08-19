@@ -29,11 +29,3 @@ The **YouTube Video Summarizer** is a tool designed to help users quickly get th
 
 ![Summary Output](https://github.com/Ankit2002gaidhar/YouTube-Video-Summarizer/blob/main/Yt%20Video%20Summarizer/Summarizer%203.png)
 
-
-### Full Video
-Check out the YouTube Video Summarizer in action:
-
-[![Video Summarizer Demo](https://github.com/Ankit2002gaidhar/YouTube-Video-Summarizer/blob/main/Screenshot%20(257).png)](https://github.com/Ankit2002gaidhar/YouTube-Video-Summarizer/blob/main/YT%20Video%20Summarizer.mp4)
-
-*Click the image to watch the full video.*
-
